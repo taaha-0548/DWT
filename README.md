@@ -1,6 +1,3 @@
-Here’s the updated **README.md** with a clickable “Open the Drive” badge right under the title:
-
----
 
 # [DWT — Data Structures with Taaha](https://drive.google.com/drive/folders/1COD4bGzvxwtppJP4lkWUxLvB5csxBpmf?usp=drive_link)
 
@@ -47,8 +44,5 @@ This repository serves as a **gateway to the DWT Drive** so anyone can benefit f
 ## 🤝 Connect
 
 If you find this resource helpful, feel free to share it with others and connect with me on LinkedIn:
-[linkedin.com/in/muhammad-taahaatfast](https://www.linkedin.com/in/muhammad-taahaatfast/)
+[Muhammad Taaha](https://www.linkedin.com/in/muhammad-taahaatfast/)
 
----
-
-If you want, I can also **center-align** the title and button so it looks more polished when someone views the repo on GitHub. That would give it a cleaner, landing-page feel.
